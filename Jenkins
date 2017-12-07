@@ -1,0 +1,9 @@
+node
+{
+stage 'build'
+echo 'build'
+stage 'Test'
+echo 'test'
+stage 'deploy'
+echo 'deploy'
+}
