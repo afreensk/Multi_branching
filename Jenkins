@@ -5,5 +5,5 @@ echo 'build'
 stage 'Test'
 echo 'test'
 stage 'deploy'
-echo 'deploy'
+echo 'deploy 1'
 }
